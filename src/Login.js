@@ -3,7 +3,7 @@ import "./login.css"
 import { GoogleLogin, GoogleLogout } from 'react-google-login';
 import Apper from './Apper'
 
-const clientId = "122636136649-a0djmu12vanl0mh0q28f1q1d3dj380ir.apps.googleusercontent.com";
+const clientId = "673573784216-32ftosdh6j2avkjr303pna4iips9ipou.apps.googleusercontent.com";
 
 function Login() {
 
